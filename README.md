@@ -1,2 +1,2 @@
-# got-character-gallery
+# hall of famous felines
 exercise
