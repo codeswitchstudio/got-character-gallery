@@ -1,0 +1,51 @@
+[
+	{
+		"id": 1,
+		"title": "Project 1",
+		"description": "This is a sample project. It's the first one",
+		"image": "link to image source",
+		"github": "link to repo",
+		"deployed": "link to deployed"
+	},
+	{
+		"id": 2,
+		"title": "Project 2",
+		"description": "This is a sample project. It's the second one",
+		"image": "link to image source",
+		"github": "link to repo",
+		"deployed": "link to deployed"
+	},
+	{
+		"id": 3,
+		"title": "Project 3",
+		"description": "This is a sample project. It's the third one",
+		"image": "link to image source",
+		"github": "link to repo",
+		"deployed": "link to deployed"
+	},
+	{
+		"id": 4,
+		"title": "Project 4",
+		"description": "This is a sample project. It's the 4th one",
+		"image": "link to image source",
+		"github": "link to repo",
+		"deployed": "link to deployed"
+	},
+	{
+		"id": 5,
+		"title": "Project 5",
+		"description": "This is a sample project. It's the 5th one",
+		"image": "link to image source",
+		"github": "link to repo",
+		"deployed": "link to deployed"
+	},
+	{
+		"id": 6,
+		"title": "Project 6",
+		"description": "This is a sample project. It's the 6th one",
+		"image": "link to image source",
+		"github": "link to repo",
+		"deployed": "link to deployed"
+	}
+]
+

@@ -1,0 +1,24 @@
+
+#root {
+  max-width: 100vwpx;
+  min-height: 100vh; */
+  margin: 0 auto;
+  /* text-align: center; */
+}
+
+nav {
+  width: 100vw;
+}
+
+
+html,
+body,
+#root,
+#root > div,
+div[data-reactroot] {
+  /* height: 100%; */
+  padding: 0;
+  margin: 0;
+  /* background: rgb(25, 18, 31);
+  color: white; */
+}

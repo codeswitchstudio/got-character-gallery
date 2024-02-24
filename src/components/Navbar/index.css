@@ -1,0 +1,19 @@
+body {
+	color: white;
+	width: 100vw;
+	margin-left: 20px;
+}
+
+
+container {
+	display: flex;
+	/* justify-content: start; */
+	padding-left: 10px;
+} 
+
+#brand {
+  font-family: "Rakkas", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: small;
+}
