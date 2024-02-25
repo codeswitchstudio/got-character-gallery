@@ -3,8 +3,8 @@ import Card from 'react-bootstrap/Card';
 
 function ProjectCard({ project }) {
   return (
-    <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="holder.js/100px180" />
+    <Card style={{ width: '96%' }}>
+      <Card.Img variant="top" src={project.image}/>
       <Card.Body>
         <Card.Title>{project.title}</Card.Title>
         <Card.Text>

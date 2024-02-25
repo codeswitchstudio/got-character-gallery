@@ -3,11 +3,14 @@
   max-width: 100vwpx;
   min-height: 100vh; */
   margin: 0 auto;
+
   /* text-align: center; */
 }
 
 nav {
   width: 100vw;
+  background-color: blue
+  padding-left: 10px;
 }
 
 

@@ -1,15 +1,17 @@
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-import NavDropdown from 'react-bootstrap/NavDropdown';
+// import NavDropdown from 'react-bootstrap/NavDropdown';
 
 
 function MyNav() {
   return (
-  <Container>
-    <Navbar expand="lg" bg="primary" variant="primary">
-      <span>
-      <Navbar.Brand href="#home">
+    <Container>
+    <Navbar Navbar expand="lg" bg="primary" variant="primary" data-bs-theme="dark">
+           
+     <div>
+      <Navbar.Brand href="/">
+        {' '}
             <img
               alt=""
               src="../../../cat-icon.svg"
@@ -19,13 +21,13 @@ function MyNav() {
             />{' '}
             <span id="brand">Los Gatos</span>
           </Navbar.Brand>
-          </span>
-
-        <Navbar.Toggle aria-controls="basic-navbar-nav"  />
+      </div>
+     
+        <Navbar.Toggle aria-controls="basic-navbar-nav"/>
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href="/">Home</Nav.Link>
-            <Nav.Link href="/portfolio">Portfolio</Nav.Link>
+            <Nav.Link href="/catfolio">Catfolio</Nav.Link>
             <Nav.Link href="/contact">Contact</Nav.Link>
 
             {/* <NavDropdown title="Dropdown" id="basic-nav-dropdown">
@@ -42,8 +44,10 @@ function MyNav() {
 
           </Nav>
         </Navbar.Collapse>
+       
       </Navbar>
-    </Container>
+      </Container>
+
   );
 }
 

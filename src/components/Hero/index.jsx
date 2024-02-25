@@ -1,9 +1,9 @@
 import React from "react";
-import "./style.css";
+import "./index.css";
 
 function Hero(props) {
   return (
-    <div className="hero p-5 mb-4 " style={{ backgroundImage: `url(${props.backgroundImage})` }}>
+    <div className="hero p-5  " style={{ backgroundImage: `url(${props.backgroundImage})` }}>
       {props.children}
     </div>
   );

@@ -3,7 +3,7 @@
 		"id": 1,
 		"title": "Project 1",
 		"description": "This is a sample project. It's the first one",
-		"image": "link to image source",
+		"image": "../public/cat01.svg",
 		"github": "link to repo",
 		"deployed": "link to deployed"
 	},
@@ -11,7 +11,7 @@
 		"id": 2,
 		"title": "Project 2",
 		"description": "This is a sample project. It's the second one",
-		"image": "link to image source",
+		"image": "../public/cat02.svg",
 		"github": "link to repo",
 		"deployed": "link to deployed"
 	},
@@ -19,7 +19,7 @@
 		"id": 3,
 		"title": "Project 3",
 		"description": "This is a sample project. It's the third one",
-		"image": "link to image source",
+		"image": "../public/cat03.svg",
 		"github": "link to repo",
 		"deployed": "link to deployed"
 	},
@@ -27,7 +27,7 @@
 		"id": 4,
 		"title": "Project 4",
 		"description": "This is a sample project. It's the 4th one",
-		"image": "link to image source",
+		"image": "../public/cat04.svg",
 		"github": "link to repo",
 		"deployed": "link to deployed"
 	},
@@ -35,7 +35,7 @@
 		"id": 5,
 		"title": "Project 5",
 		"description": "This is a sample project. It's the 5th one",
-		"image": "link to image source",
+		"image": "../cat05.svg",
 		"github": "link to repo",
 		"deployed": "link to deployed"
 	},
@@ -43,7 +43,31 @@
 		"id": 6,
 		"title": "Project 6",
 		"description": "This is a sample project. It's the 6th one",
-		"image": "link to image source",
+		"image": "../cat06.svg",
+		"github": "link to repo",
+		"deployed": "link to deployed"
+	},
+	{
+		"id": 7,
+		"title": "Project 7",
+		"description": "This is a sample project. It's the 4th one",
+		"image": "../cat07.svg",
+		"github": "link to repo",
+		"deployed": "link to deployed"
+	},
+	{
+		"id": 8,
+		"title": "Project 8",
+		"description": "This is a sample project. It's the 5th one",
+		"image": "../cat08.svg",
+		"github": "link to repo",
+		"deployed": "link to deployed"
+	},
+	{
+		"id": 9,
+		"title": "Project 9",
+		"description": "This is a sample project. It's the 6th one",
+		"image": "../cat09.svg",
 		"github": "link to repo",
 		"deployed": "link to deployed"
 	}
