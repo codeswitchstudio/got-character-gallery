@@ -11,6 +11,7 @@ body {
   /* padding-top: 80px; */
 }
 
+
 h2 {
   text-align: center;
   font-size: 140px;
@@ -99,3 +100,75 @@ h2 {
 /* .row {
   margin-bottom: 50px;
 } */
+
+
+Form {
+  border: 1px solid lightgray;
+  /* border-radius: 10px; */
+  padding: 20px;
+  width: 80%;
+  margin: 75px;
+  text-align: left;
+  margin-left: 20px;
+  background: white
+}
+
+input,
+label
+{
+  padding: 5px;
+  width: 100%;
+}
+
+#btn {
+width: 75px;
+margin-top: 10px;
+border-radius: 50px;
+border: none;
+background-color: orange;
+margin-bottom: 10px;
+}
+
+
+#name,
+#email,
+#message,
+
+label
+{
+padding-top: 15px;
+}
+
+#text {
+width: 100%;
+min-height: 300px
+}
+
+
+#contact-h2 {
+font-family: Alegreya, serif;
+font-weight:  bold;
+margin-left: 75px;
+margin-top: 30px;
+}
+
+#button {
+color: white;
+margin-top: 10px;
+border: none;
+border-radius: 20px;
+background-color: orange;
+
+}
+
+#btn:hover { 
+background-color: greenyellow;
+text-decoration: none;
+border: none;
+
+} 
+
+.contact-h2, #contact-h2 {
+  color: white;
+}
+
