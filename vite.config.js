@@ -3,10 +3,11 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [react()],
-  base: '/char-games',
-  build: {
-	outDir: 'build'
-},
+  plugins: [react()]
+//   ,
+//   base: '/char-games',
+//   build: {
+// 	outDir: 'build'
+// },
 
 })

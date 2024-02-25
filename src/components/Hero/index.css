@@ -48,21 +48,6 @@ h2 {
   z-index: 2;
 }
 
-/* .hero h2 {
-  color: black;
-  font-family: "Cute Font", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.hero h1 {
-  font-weight: 700;
-  padding-top: 130px;
-  font-family: "Rakkas", serif;
-
-
-}
-
 .hero h2 {
   font-weight: 300;
   font-size: 22px;
@@ -133,7 +118,6 @@ margin-bottom: 10px;
 #name,
 #email,
 #message,
-
 label
 {
 padding-top: 15px;
@@ -145,24 +129,24 @@ min-height: 300px
 }
 
 
-#contact-h2 {
+/* #contact-h2 {
 font-family: Alegreya, serif;
 font-weight:  bold;
 margin-left: 75px;
 margin-top: 30px;
-}
+} */
 
-#button {
+/* #button {
 color: white;
 margin-top: 10px;
 border: none;
 border-radius: 20px;
 background-color: orange;
 
-}
+} */
 
 #btn:hover { 
-background-color: greenyellow;
+background-color: dodgerblue;
 text-decoration: none;
 border: none;
 
@@ -170,5 +154,15 @@ border: none;
 
 .contact-h2, #contact-h2 {
   color: white;
+  text-align: center;
+  font-family: "Rakkas", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
 }
 
+#form {
+  margin-left: 10%;
+  width:  100%;
+  
+}

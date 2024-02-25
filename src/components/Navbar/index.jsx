@@ -15,12 +15,12 @@ function MyNav() {
         {' '}
             <img
               alt=""
-              src="../../../cat-icon.svg"
+              src="../../../public/cat-icon.svg"
               width="30"
               height="30"
               className="d-inline-block align-top"
             />{' '}
-            <span id="brand">Los Gatos</span>
+            <span id="brand">🐈 Los Gatos</span>
           </Navbar.Brand>
       </div>
      

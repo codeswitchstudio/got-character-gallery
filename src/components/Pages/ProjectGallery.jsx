@@ -1,9 +1,7 @@
 import Project from '../Project';
 import projects from '../../projects.json';
-import Container from 'react-bootstrap/Container';
 import './../Project/index.css'
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
+
 
 const ProjectGallery = () => {
 	return (

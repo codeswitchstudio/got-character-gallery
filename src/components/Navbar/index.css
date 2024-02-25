@@ -22,14 +22,11 @@ a:hover {
   color: orange;
 } 
 
-
-
-
 #brand {
   font-family: "Rakkas", serif;
   font-weight: 400;
   font-style: normal;
-  font-size: small;
+  font-size:larger;
 }
 
 #logo {
