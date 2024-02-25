@@ -33,6 +33,10 @@ a:hover {
 	padding-left: 10px;
 }
 
+#spacer {
+	width: 15px;;
+}
+
 
 /* Container {
 	display: flex; 

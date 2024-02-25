@@ -13,13 +13,14 @@ function MyNav() {
      <div>
       <Navbar.Brand href="/">
         {' '}
-            <img
+            {/* <img
               alt=""
               src="../../../public/cat-icon.svg"
               width="30"
               height="30"
               className="d-inline-block align-top"
-            />{' '}
+            />{' '} */}
+            <span id="spacer"></span>
             <span id="brand">🐈 Los Gatos</span>
           </Navbar.Brand>
       </div>
