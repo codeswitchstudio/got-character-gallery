@@ -7,9 +7,9 @@ import './index.css';
 
 function MyNav() {
   return (
-    <Container>
+    
     <Navbar Navbar expand="lg" bg="primary" variant="primary" data-bs-theme="dark">
-           
+     <Container>      
      <div>
       <Navbar.Brand href="/">
         {' '}
@@ -46,9 +46,9 @@ function MyNav() {
 
           </Nav>
         </Navbar.Collapse>
-       
+        </Container>
       </Navbar>
-      </Container>
+      
 
   );
 }
