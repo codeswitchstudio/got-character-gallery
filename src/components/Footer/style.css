@@ -7,6 +7,7 @@
   margin-bottom: 0;
   width: 100vw;;
   text-decoration:none;
+  color: white;
 }
 
 .footer span {
@@ -16,6 +17,7 @@
   right: 0;
   text-decoration:none;
   background-color: #332D2D;
+  color: white;
 
 } 
 
@@ -58,6 +60,7 @@ footer-basic ul a {
   text-align:center;
   font-size:13px;
   margin-bottom:10px;
+  color: white;
 } */
 
 #copyright {
